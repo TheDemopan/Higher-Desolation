@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"a5f4cbb627106d7f","type":"file","file":"DM Notes/Campaign Overview/Locations/Specific places/Haven's Glimpse.md","x":-440,"y":-280,"width":400,"height":400},
+		{"id":"8b02e92c2639d26a","type":"file","file":"DM Notes/Visuals/Locations/Haven's Glimpse/00007-798164096.png","x":-440,"y":140,"width":400,"height":400},
+		{"id":"6de0d8794be4954e","type":"file","file":"DM Notes/NPCs/Enemies/Outpost Commander.md","x":-20,"y":-280,"width":400,"height":400},
+		{"id":"e937450365923944","type":"file","file":"DM Notes/Visuals/NPCs/Outpost commander/00001-798164096.png","x":-20,"y":140,"width":400,"height":400},
+		{"id":"f59fd41393b73282","x":400,"y":-280,"width":400,"height":400,"type":"file","file":"DM Notes/NPCs/Factions/Astrum Seekers.md"},
+		{"id":"7d9214cb4a7faba5","x":400,"y":140,"width":400,"height":400,"type":"file","file":"DM Notes/Visuals/NPCs/Factions/Astrum Seekers/00063-95842182.png"},
+		{"id":"9bdf1cb39ebfa042","x":8,"y":560,"width":345,"height":160,"type":"text","text":"Players will meet at Haven's Glimpse, deal with the Outpost Commander, then learn of the Astrum Seekers.\nSession 2 will lead them to look for the Astrum Seekers"}
+	],
+	"edges":[]
+}

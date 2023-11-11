@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"5ebbdb894b5635c1","type":"file","file":"DM Notes/NPCs/Factions/Astrum Seekers.md","x":-500,"y":-600,"width":400,"height":400},
+		{"id":"bf8a2dac848e97bf","type":"file","file":"DM Notes/Visuals/NPCs/Factions/Astrum Seekers/00063-95842182.png","x":-500,"y":-180,"width":400,"height":400},
+		{"id":"6fdfed5852a88b5a","type":"file","file":"DM Notes/Visuals/NPCs/Factions/Ethereal Sages/00060-3025680606.png","x":-40,"y":-180,"width":400,"height":400},
+		{"id":"abf8dd1b1e567020","type":"file","file":"DM Notes/NPCs/Factions/Ethereal Sages.md","x":-40,"y":-600,"width":400,"height":400}
+	],
+	"edges":[]
+}

@@ -1,0 +1,5 @@
+- Kirigan's butler
+- Half/Full elf
+- Very old, in 500s
+- Remembers [[Deusunus]]
+- Survived the [[Divine Unravelling]]

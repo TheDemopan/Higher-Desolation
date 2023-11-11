@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"9f53ab69775b3d90","type":"file","file":"DM Notes/Campaign Overview/Players/Stunn Tetruth (Dan).md","x":-480,"y":-620,"width":400,"height":400,"color":"2"},
+		{"id":"a5276b75f5e35a3a","type":"file","file":"DM Notes/Campaign Overview/Players/Kirigan Obarskyr (Bo).md","x":-940,"y":-620,"width":400,"height":400,"color":"4"},
+		{"id":"e8caa6dbe10daae9","type":"file","file":"DM Notes/Campaign Overview/Players/Avalanche (Ty).md","x":-20,"y":-620,"width":400,"height":400,"color":"#f070d4"},
+		{"id":"884561d8a2c2a677","type":"file","file":"DM Notes/Visuals/Players/Kirigan Obarskyr (Bo)/IMG_6314.jpg","x":-890,"y":-120,"width":300,"height":400,"color":"4"}
+	],
+	"edges":[
+		{"id":"cd26813c7485b9e8","fromNode":"a5276b75f5e35a3a","fromSide":"bottom","toNode":"884561d8a2c2a677","toSide":"top"}
+	]
+}

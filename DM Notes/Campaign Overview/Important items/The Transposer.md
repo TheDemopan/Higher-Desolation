@@ -1,0 +1,1 @@
+The once gilded arm of [[Mance]], it seemingly lost its power after its connection to its patron was severed

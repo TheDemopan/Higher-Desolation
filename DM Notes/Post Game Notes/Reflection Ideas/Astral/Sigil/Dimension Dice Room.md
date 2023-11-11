@@ -1,0 +1,1 @@
+Players will see the casino in its original quality, full of gold and people. In this state they will meet Mance, still alive,

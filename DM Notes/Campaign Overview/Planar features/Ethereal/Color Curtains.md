@@ -1,0 +1,1 @@
+Function similarly to [[Color pools]]

@@ -1,0 +1,4 @@
+>"_Kirigan, seeker of lost echoes and keeper of secrets, your quest for restoration echoes in the depths of time. There is a place, shrouded in the mists of memory, where the threads of destiny converge. Seek the whispers of the forgotten forge, where once a great power was held._
+"_Your path is not a solitary one, for unity shall illuminate the path ahead. In time's shadow, the threads of fate weave a tapestry yet unknown. Trust not all who beckon, for intentions are veiled in the labyrinth of chaos._
+"_Remember, the fragmented universe calls for unity. Seek out the heart of the gathering, where destiny shall reunite the scattered pieces. There, the threads of your fate intertwine with others, and the true journey begins. Where stars align, where streams sparkle, and where light reaches, seek Haven's Glimpse_"
+_"Make haste, prince"_

@@ -1,0 +1,1 @@
+Directly caused around 1480 after [[Deusunus]] killed the last Overgod, initiating complete multiversal collapse
